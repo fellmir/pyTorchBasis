@@ -1,2 +1,4 @@
 *.gz
 MNIST/
+FashionMNIST/
+EMNIST/
