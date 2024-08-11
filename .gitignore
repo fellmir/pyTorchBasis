@@ -1,4 +1,2 @@
 *.gz
-MNIST/
-FashionMNIST/
-EMNIST/
+00-src/
