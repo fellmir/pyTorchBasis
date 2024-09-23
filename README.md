@@ -1,6 +1,6 @@
 # pyTorchBasis
  
-This repository contains a collection of projects to help learn and practice PyTorch, ranging from basic tutorials to advanced models. It aims to assist both beginners and those with more experience in understanding and using PyTorch effectively.
+This portfolio is intended to showcase my training in PyTorch, which ranges from basic tutorials to advanced models.
 
 ## Contents
 
@@ -8,6 +8,4 @@ This repository contains a collection of projects to help learn and practice PyT
 - **Intermediate projects**: Convolutional neural networks (CNNs), recurrent neural networks (RNNs), transfer learning, generative adversarial networks (GANs), autoencoders, sequence-to-sequence models, and image augmentation techniques.
 - **Advanced projects**: Custom layers and modules, reinforcement learning, advanced GANs, attention mechanisms, graph neural networks (GNNs), natural language processing (NLP), model optimization and quantization, time series forecasting, and model deployment.
 
-Each project includes Jupyter notebooks and source code to facilitate learning and experimentation.
-
-This portfolio is intended to showcase my training in PyTorch and to help others on a similar journey.
+Each project includes Jupyter notebooks for ease of use.
